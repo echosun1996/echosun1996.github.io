@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+Allow: /archives/
+Allow: /tags/
+Allow: /categories/
+Allow: /about/
+Allow: /posts/
+
+Disallow: /vendors/
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /vendors/
+Disallow: /fancybox/
+
+Sitemap: https://blog.echosun.top/sitemap.xml
+Sitemap: https://blog.echosun.top/baidusitemap.xml
